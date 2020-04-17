@@ -1,6 +1,6 @@
 # Android-life-saver-note
 
-# Android Architecture Components
+## Android Architecture Components
 
 - [Room Persistence](https://developer.android.com/topic/libraries/architecture/room)
 
@@ -12,7 +12,7 @@
 
 - [WorkManager](https://developer.android.com/jetpack/androidx/releases/work)
 
-# Android Networking
+## Android Networking
 
 - [Retrofit 2](https://square.github.io/retrofit/)
 
@@ -24,7 +24,7 @@
 
 - [OkHttp](https://square.github.io/okhttp/)
 
-# Reactive Extension
+## Reactive Extension
 
 - [Rx Java](https://github.com/ReactiveX/RxJava)
 
@@ -35,7 +35,7 @@
 - [RxJava3 Adapter](https://github.com/akarnokd/RxJavaRetrofitAdapter)
 
 
-# Dependency Injection
+## Dependency Injection
 
 - [Dagger 2](https://github.com/google/dagger)
 
@@ -43,7 +43,7 @@
 
 - [Kodein](https://kodein.org/Kodein-DI/?5.0/android)
 
-# Material Design
+## Material Design
 
 - [Material Design](https://material.io/develop/android/docs/getting-started/)
 
@@ -57,7 +57,7 @@
 
 - [Lottie](https://github.com/airbnb/lottie-android)
 
-# Others
+## Others
 
 - [MultiDex](https://developer.android.com/studio/build/multidex)
 
