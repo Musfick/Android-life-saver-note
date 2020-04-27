@@ -24,6 +24,8 @@
 
 - [OkHttp](https://square.github.io/okhttp/)
 
+- [OkHttp Logging Interceptor](https://github.com/square/okhttp/tree/master/okhttp-logging-interceptor)
+
 ## Reactive Extension
 
 - [Rx Java](https://github.com/ReactiveX/RxJava)
@@ -33,6 +35,8 @@
 - [RxJava2 Adapter](https://github.com/square/retrofit/tree/master/retrofit-adapters/rxjava2)
 
 - [RxJava3 Adapter](https://github.com/akarnokd/RxJavaRetrofitAdapter)
+
+- [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 
 
 ## Dependency Injection
