@@ -20,6 +20,8 @@
 
 - [ViewModelKey](https://github.com/Musfick/Kotlin-MVVM-Best-Practice/blob/master/app/src/main/java/com/foxhole/kotlinbestpracticemvvm/viewmodelfactory/ViewModelKey.kt)
 
+- [NavigationExtensions](https://github.com/Musfick/Space-X-API/blob/features/rocketDetails/app/src/main/java/com/foxhole/spacex/utils/NavigationExtensions.kt)
+
 ## Android Architecture Components
 
 - [Room Persistence](https://developer.android.com/topic/libraries/architecture/room)
@@ -80,6 +82,10 @@
 - [Picasso](https://square.github.io/picasso/)
 
 - [Lottie](https://github.com/airbnb/lottie-android)
+
+- [BottomNavigation](https://github.com/Musfick/Space-X-API/blob/features/rocketDetails/app/src/main/java/com/foxhole/spacex/ui/MainActivity.kt)
+
+- [BottomNavigation Layout Design](https://github.com/Musfick/Space-X-API/blob/features/rocketDetails/app/src/main/res/layout/activity_main.xml)
 
 ## Others
 
